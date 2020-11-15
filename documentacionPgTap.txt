@@ -1,0 +1,9 @@
+Herramientas para realizar pruebas unitarias en base de datos.
+
+-pgtap
+https://github.com/theory/pgtap
+https://pgtap.org/
+https://pgxn.org/dist/pgtap/
+
+--pgunit
+http://en.dklab.ru/lib/dklab_pgunit/
